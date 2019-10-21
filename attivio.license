@@ -1,0 +1,13 @@
+<attivio>
+  <license>
+    <company>Attivio</company>
+    <project>Development</project>
+    <date>-1</date>
+    <majorVersion>5</majorVersion>
+    <minorVersion>-1</minorVersion>
+    <features>
+      <feature name="attivio.unlimited"/>
+    </features>
+    <signature>MKbn5iVn7WAL8jDEgPr2R9xV5B0qAdGPDJ3Wk2iGrhFJ/LIzOyvFeHiJpwgepwpRzXndZLeRdtLwXEJZVG6HNnxpkKpv0NhVA9CpSbSYAScjOEOGHGWU7HmdZjjJ5Ir4MBhuBvrcxJYuvi8ERR0RpfygPmfP3cxPNsvUdy5D9WY=</signature>
+  </license>
+</attivio>

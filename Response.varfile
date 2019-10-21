@@ -1,0 +1,15 @@
+# install4j response file for Attivio Platform 5.6.1
+agentServiceDir=e\:\\attivio\\aie_5.6.1/../data-agent
+agentServiceInstall$Boolean=false
+agentServicePort$Long=16999
+attivio.java.type=bundled
+attivio.license.file=e\:\\WindowsAutomation\\attivio.license
+sys.adminRights$Boolean=true
+sys.component.component-core$Boolean=true
+sys.component.component-external-modules-platform$Boolean=true
+sys.installationDir=e\:\\WindowsAutomation\\opt\\Attivio\\platform
+sys.installationTypeId=16603
+sys.languageId=en
+sys.programGroupDisabled$Boolean=true
+sys.programGroupName=Attivio Platform
+
